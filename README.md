@@ -17,3 +17,5 @@ Este proyecto analiza más de 1 millón apps de la Play Store para identificar l
 * Las apps de **pago** tienen un rating medio **0.49 puntos superior** a las gratuitas.
 * Existe una barrera psicológica de descarga a partir de los **100MB**.
 * El "Punto Dulce" para el éxito masivo es una app **gratuita de menos de 100MB**.
+
+* Debido al tamaño del archivo .pbix, se adjunta un informe en PDF y capturas detalladas. El archivo original está disponible bajo petición". Esto es muy común en portfolios

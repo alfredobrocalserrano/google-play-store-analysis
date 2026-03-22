@@ -4,7 +4,7 @@ Este proyecto analiza más de 10.000 apps de la Play Store para identificar los 
 
 ### 📂 Origen de los Datos
 Los datos utilizados en este análisis provienen del dataset público de Kaggle: 
-[Google Play Store Apps](https://www.kaggle.com/datasets/lavanyagupta/googleplaystore77).
+[Google Play Store Apps](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps).
 
 *El dataset original contiene información sobre más de 10,000 aplicaciones, incluyendo categorías, ratings, tamaño y precios.*
 

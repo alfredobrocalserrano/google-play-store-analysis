@@ -1,6 +1,12 @@
 # 📱 Análisis Estratégico de la Google Play Store
 
-Este proyecto analiza más de 1 millón apps de la Play Store para identificar los factores que determinan el éxito (ratings e instalaciones).
+Este proyecto analiza más de 10.000 apps de la Play Store para identificar los factores que determinan el éxito (ratings e instalaciones).
+
+### 📂 Origen de los Datos
+Los datos utilizados en este análisis provienen del dataset público de Kaggle: 
+[Google Play Store Apps](https://www.kaggle.com/datasets/lavanyagupta/googleplaystore77).
+
+*El dataset original contiene información sobre más de 10,000 aplicaciones, incluyendo categorías, ratings, tamaño y precios.*
 
 ## 🛠️ Tecnologías Utilizadas
 * **Python (Google Colab):** Limpieza de datos, gestión de nulos y normalización de unidades (MB/KB).
